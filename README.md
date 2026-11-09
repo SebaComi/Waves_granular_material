@@ -68,12 +68,6 @@ Clone the repository:
 git clone https://github.com/SebaComi/Waves_granular_material.git
 ```
 
-Navigate to the project directory:
-
-```bash
-cd Waves_granular_material
-```
-
 Open the project directory in MATLAB or add it to the MATLAB path.
 
 ## Running a Simulation
